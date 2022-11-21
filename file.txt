@@ -1,2 +1,5 @@
 hello, it`s my first line
 here
+here another one line from echo
+and here local
+
