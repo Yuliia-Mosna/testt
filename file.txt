@@ -1,4 +1,4 @@
-hello, it`s my first line
+testing line
 here
 here another one line from echo
 and here local
